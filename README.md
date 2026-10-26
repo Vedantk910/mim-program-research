@@ -2,7 +2,7 @@
 
 A Claude Code skill that turns "rank the best master's programs for me" into a repeatable pipeline: parallel regional research agents → verification against official pages → weighted tier ranking → markdown report + Excel workbook.
 
-Built from the 2027 MiM/MSc-Finance research cycle for Vedant Konde (GMAT Focus 655, India/US/Australia excluded). The full 25+15 program dataset lives in this repo's root: `MIM_TOP25_REPORT.md` (narrative + sources) and `MIM_TOP25_AND_MORE.xlsx` (the deliverable).
+Built from the 2027 MiM/MSc-Finance research cycle for Vedant Konde (GMAT Focus 655, India/US/Australia excluded). The full 25+15 program dataset lives in `examples/`: `MIM_TOP25_REPORT.md` (narrative + sources), `MIM_TOP25_AND_MORE.xlsx` (the deliverable), and `build_workbook.py` (the openpyxl builder, un-styled source).
 
 ## Use it
 
